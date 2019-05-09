@@ -1,0 +1,14 @@
+! Title: Fuck baijiaohao List
+! Description: Remove the promotion of baijiahao on Baidu Search Engine
+! Version: 1.0
+! TimeUpdated: 2019-03-27T20:30:57+03:00
+! Expires: 2 days (update frequency)
+! Homepage: https://github.com/JustYummy/fuckbjh
+! License: https://creativecommons.org/licenses/by-sa/3.0/
+!
+!---------------------------------------------------------------------------!
+!------------------ General JS API -----------------------------------------!
+!---------------------------------------------------------------------------!
+! JS API START
+baidu.com##.result.c-container[srcid="1599"]
+baidu.com##.c-result.result[new_srcid="1599"]

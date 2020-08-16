@@ -44,5 +44,6 @@ ithome.com##div[class="open-app-banner"]
 ithome.com###bd-share-box
 ithome.com##.down-app-box
 ithome.com##a[href="https://m.lapin365.com"]
-ithome.com##div[class="ft-item open-app"]
+!ithome.com##div[class="ft-item open-app"]
 ithome.com##button[class="open-app"]
+ithome.com##div[class="hot-app"]

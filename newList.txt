@@ -1,7 +1,7 @@
 ! Title: Fuck AD List
 ! Description: Remove the promotion of baijiahao on Baidu Search Engine
 ! Version: 1.2
-! TimeUpdated: 2019-05-09T13:22:10+03:00
+! TimeUpdated: 2020-6-16T12:20:10+03:00
 ! Expires: 2 days (update frequency)
 ! Homepage: https://github.com/JustYummy/fuckbjh
 ! License: https://creativecommons.org/licenses/by-sa/3.0/
@@ -47,3 +47,40 @@ ithome.com##a[href="https://m.lapin365.com"]
 !ithome.com##div[class="ft-item open-app"]
 ithome.com##button[class="open-app"]
 ithome.com##div[class="hot-app"]
+quan.ithome.com##a[class="open-app-a"]
+!AD ithome
+||ithome.com/api/lapin/
+||ithome.com/file/js/lapin-load.js
+||ithome.com/file/js/money/
+||ithome.com/file/js/win*china.js
+||ithome.com/images/1068.jpg
+||ithome.com/images/hb1212/
+||ithome.com/images/hongbao/
+||ithome.com/images/huawei.jpg
+||ithome.com/js/lapin/hot.js
+||ithome.com/js/recommend.js
+||ithome.com/newsuploadfiles/focus/67e46c4e-0a45-488a-a493-a836e3d4f4ce.jpg
+||ithome.com/newsuploadfiles/focus/dd4682ad-3be0-4e74-b286-8fd747d4bd08.jpg
+ithome.com.tw###ad-on-top
+ithome.com###con > div[style="text-align:center"]
+hackhw.com,ithome.com###hd_float
+ithome.com###hd_float1
+ithome.com.tw##.ad-text-in-middle
+ithome.com##.bx-recom2
+ithome.com##.con-recom
+ithome.com##.indexV2 > div > a
+ithome.com##.lapin
+ithome.com##.related_buy
+ithome.com##.rm-modal-bg
+ithome.com##.rm-modal-body
+ithome.com##.rm-modal1-bg
+ithome.com##.rm-modal1-body
+ithome.com##.sb_list > .bx
+ithome.com.tw##.span4:nth-child(5)
+ithome.com.tw##.span4:nth-child(8)
+ithome.com##a[href*="/lapin."]
+ithome.com##a[href="/html/363216.htm"]
+ithome.com##a[href^="http://e.cn.miaozhen."]
+ithome.com.tw##div[class="span4"]
+ithome.com#?#.placeholder:-abp-has(> a > .plc-con > .plc-footer > .tip-gray)
+ithome.com#?#li:-abp-has(>.block a[href*="/lapin."])

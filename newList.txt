@@ -10,6 +10,20 @@
 !------------------ General JS API -----------------------------------------!
 !---------------------------------------------------------------------------!
 ! JS API START
+!广告
+baidu.com#$?#.ec_wise_ad { display: none!important; visibility: hidden !important;}
+!聚合搜索
+baidu.com##.c-result.result[new_srcid="5664"]
+!购物
+baidu.com##.c-result.result[new_srcid="5544"]
+!品牌排名
+baidu.com##.c-result.result[new_srcid="5783"]
+!资讯
+baidu.com##.c-result.result[new_srcid="19"]
+!热议
+baidu.com##.c-result.result[new_srcid="201"]
+!地址
+baidu.com##.c-result.result[new_srcid="47198"]
 !Remove "Install app" suggestion
 m.baidu.com##.page-banner
 !Remove ADD
@@ -18,11 +32,8 @@ baidu.com##div[class^="ec_r"]
 baidu.com##.c-result.result[data-log*="baijiahao"]
 !Bad webside
 baidu.com##.c-result.result[data-log*="eastday"]
-!Remove short Vedio
-baidu.com##.c-result.result[new_srcid="4660"]
-!Remove mini app
+!小程序
 baidu.com##.c-result.result[new_srcid="38414"]
-!New
 !ad banner
 baidu.com###page-copyright > div.banner
 !band app suggest
@@ -32,12 +43,31 @@ baidu.com###relativewords > div.rw-list-container.rw-list-container2 > div.c-lin
 baidu.com###page-ft > div.se-ft-promlink
 !band app download
 ||boxer.baidu.com^
-!ad
-baidu.com##.c-result.result[new_srcid="5544"]
 !live vedio
 baidu.com##.c-result.result[new_srcid="38371"]
 !suggest app
 baidu.com###results > section > div.hint-fold-results-box > div
+!视频
+baidu.com##.c-result.result[new_srcid="4295"]
+baidu.com##.c-result.result[new_srcid="4185"]
+!大众点评
+baidu.com##.c-result.result[new_srcid="47524"]
+!音乐
+baidu.com##.c-result.result[new_srcid="8041"]
+!小视频
+baidu.com##.c-result.result[new_srcid="4660"]
+!热卖
+baidu.com##.c-result.result[new_srcid="5599"]
+!安装程序
+baidu.com##.c-result.result[new_srcid="28435"]
+!直播推荐
+baidu.com##.c-result.result[new_srcid="39808"]
+!底部广告
+baidu.com##.c-container.na-ec-item
+!百家号
+baidu.com##.c-result.result[new_srcid="206"]
+!应用搜索
+baidu.com##.c-result.result[new_srcid="5316"]
 !ithome
 ithome.com##div[class="open-app-banner"]
 !ithome.com##a[class="open-app-a"]
@@ -49,18 +79,6 @@ ithome.com##button[class="open-app"]
 ithome.com##div[class="hot-app"]
 quan.ithome.com##a[class="open-app-a"]
 !AD ithome
-||ithome.com/api/lapin/
-||ithome.com/file/js/lapin-load.js
-||ithome.com/file/js/money/
-||ithome.com/file/js/win*china.js
-||ithome.com/images/1068.jpg
-||ithome.com/images/hb1212/
-||ithome.com/images/hongbao/
-||ithome.com/images/huawei.jpg
-||ithome.com/js/lapin/hot.js
-||ithome.com/js/recommend.js
-||ithome.com/newsuploadfiles/focus/67e46c4e-0a45-488a-a493-a836e3d4f4ce.jpg
-||ithome.com/newsuploadfiles/focus/dd4682ad-3be0-4e74-b286-8fd747d4bd08.jpg
 ithome.com.tw###ad-on-top
 ithome.com###con > div[style="text-align:center"]
 hackhw.com,ithome.com###hd_float
@@ -84,3 +102,4 @@ ithome.com##a[href^="http://e.cn.miaozhen."]
 ithome.com.tw##div[class="span4"]
 ithome.com#?#.placeholder:-abp-has(> a > .plc-con > .plc-footer > .tip-gray)
 ithome.com#?#li:-abp-has(>.block a[href*="/lapin."])
+

@@ -68,6 +68,9 @@ baidu.com##.c-container.na-ec-item
 baidu.com##.c-result.result[new_srcid="206"]
 !应用搜索
 baidu.com##.c-result.result[new_srcid="5316"]
+!去跳转
+||mbdp02.bdstatic.com^
+
 !ithome
 ithome.com##div[class="open-app-banner"]
 !ithome.com##a[class="open-app-a"]

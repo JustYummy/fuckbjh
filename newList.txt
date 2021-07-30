@@ -70,7 +70,6 @@ baidu.com##.c-result.result[new_srcid="206"]
 baidu.com##.c-result.result[new_srcid="5316"]
 !去跳转
 ||mbdp02.bdstatic.com^
-
 !ithome
 ithome.com##div[class="open-app-banner"]
 !ithome.com##a[class="open-app-a"]
@@ -82,27 +81,8 @@ ithome.com##button[class="open-app"]
 ithome.com##div[class="hot-app"]
 quan.ithome.com##a[class="open-app-a"]
 !AD ithome
-ithome.com.tw###ad-on-top
-ithome.com###con > div[style="text-align:center"]
-hackhw.com,ithome.com###hd_float
-ithome.com###hd_float1
-ithome.com.tw##.ad-text-in-middle
-ithome.com##.bx-recom2
-ithome.com##.con-recom
-ithome.com##.indexV2 > div > a
-ithome.com##.lapin
-ithome.com##.related_buy
-ithome.com##.rm-modal-bg
-ithome.com##.rm-modal-body
-ithome.com##.rm-modal1-bg
-ithome.com##.rm-modal1-body
-ithome.com##.sb_list > .bx
-ithome.com.tw##.span4:nth-child(5)
-ithome.com.tw##.span4:nth-child(8)
-ithome.com##a[href*="/lapin."]
-ithome.com##a[href="/html/363216.htm"]
-ithome.com##a[href^="http://e.cn.miaozhen."]
-ithome.com.tw##div[class="span4"]
-ithome.com#?#.placeholder:-abp-has(> a > .plc-con > .plc-footer > .tip-gray)
-ithome.com#?#li:-abp-has(>.block a[href*="/lapin."])
+ithome.com##.news-share
+ithome.com##.news-placard
+ithome.com##.open-app-a
+ithome.com##.one-img-plc:-abp-contains("广告")
 
